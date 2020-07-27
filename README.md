@@ -2,8 +2,12 @@
 
 Social media: [Twitter](https://twitter.com/bnguyensn)
 
-Tech stack:
+Language stack 📚:
 - TypeScript / JavaScript (work with daily)
 - Python (haven't used in a while)
 - Rust (learning)
 - Go (learning)
+
+Cloud stack ☁️:
+- Azure (work with daily)
+- GCP (work with daily)
