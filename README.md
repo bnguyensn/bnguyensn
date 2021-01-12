@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Binh and I love building things!
 
 My website: [restthisafternoon.com](https://restthisafternoon.com)
+
 My Twitter: [bnguyensn](https://twitter.com/bnguyensn)
 
 Language stack 📚:
