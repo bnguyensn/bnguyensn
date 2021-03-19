@@ -9,6 +9,7 @@ Language stack 📚:
 - Python (haven't used in a while)
 - Rust (learning)
 - Go (learning)
+- VBA (copy-paste)
 
 Cloud stack ☁️:
 - Azure (work with daily)
