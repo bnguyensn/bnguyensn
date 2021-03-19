@@ -1,4 +1,4 @@
-### Hi 👋, I'm Binh and I love building things!
+### Hi 👋, I'm Binh
 
 My website: [restthisafternoon.com](https://restthisafternoon.com)
 
