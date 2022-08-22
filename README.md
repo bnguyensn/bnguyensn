@@ -12,5 +12,5 @@ Language stack 📚:
 - VBA (copy-paste)
 
 Cloud stack ☁️:
-- Azure (work with daily)
 - GCP (work with daily)
+- Azure (haven't used in a while)
