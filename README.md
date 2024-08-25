@@ -6,7 +6,7 @@ My Twitter: [bnguyensn](https://twitter.com/bnguyensn)
 
 Language stack 📚:
 - TypeScript / JavaScript (work with daily)
-- Python (use rarely)
+- Python (use in hobby AI projects)
 - Rust (learning)
 - Go (learning)
 - VBA (copy-paste)
